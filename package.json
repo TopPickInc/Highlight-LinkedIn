@@ -1,0 +1,19 @@
+{
+  "name": "highlight-linkedin",
+  "version": "1.0.0",
+  "description": "This tool is executed as a bookmark within Chrome on LinkedIn Profiles.  Upon execution, the tool will expand a couple of elements on the profile and then a prompt will display.  Enter the keywords you would like to match (standard Boolen is accepted). The tool will highlight those words and give you the total number of hits on the page for each keyword.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopPickInc/Highlight-LinkedIn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopPickInc/Highlight-LinkedIn/issues"
+  },
+  "homepage": "https://github.com/TopPickInc/Highlight-LinkedIn#readme"
+}
